@@ -56,3 +56,5 @@ Citation
 
 If you use this dataset in your research, please cite our paper:
 Tahir Iqbal, Guowei Wu, Zahid Iqbal, Muhammad Bilal Mahmood, Amreen Shafique, Wenbo Guo,PypiGuard: A novel meta-learning approach for enhanced malicious package detection in PyPI through static-dynamic feature fusion,Journal of Information Security and Applications,Volume 90, 2025, 104032,ISSN 2214-2126, https://doi.org/10.1016/j.jisa.2025.104032
+
+To access the dataset and other resources please contact: tahir.biit@gmail.com, tahir@mail.dlut.edu.cn.
